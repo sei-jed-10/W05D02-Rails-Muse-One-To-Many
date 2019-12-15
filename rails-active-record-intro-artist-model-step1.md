@@ -4,7 +4,7 @@
 
 ## Objectives
 
-_After this lesson, students will be able to:_
+_After this lesson, developers will be able to:_
 
 - Describe Active Record and ORMs
 - Describe database tables and migrations
