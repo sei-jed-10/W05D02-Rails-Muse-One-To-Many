@@ -18,7 +18,7 @@ _After this lesson, developers will be able to:_
 - Understand Rails routing
 - Describe the Rails framework
 
-## Finished App - WDIR MUSE
+## MUSE
 Over the next few lessons we're gonna build an app that tracks Artists and Songs.
 
 <br>
