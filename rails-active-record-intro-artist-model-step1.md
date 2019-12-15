@@ -77,7 +77,7 @@ More concretely ORM's:
   - each column is an attribute for that model
 - Table associations are handled using foreign keys
 
-It just so happens you will be learning one of the best ORM's on the market (Active Record). It has some of the best documentation and best syntax(because ruby is awesome) the industry has to offer.
+It just so happens you are learning one of the best ORM's on the market (Active Record). It has some of the best documentation and best syntax(because ruby is awesome) the industry has to offer.
 
 <br>
 
