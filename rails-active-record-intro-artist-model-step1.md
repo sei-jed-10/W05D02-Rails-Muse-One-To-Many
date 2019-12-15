@@ -13,7 +13,7 @@ _After this lesson, developers will be able to:_
 - Perform CRUD actions on one model using `rails console`
 
 ## Preparation
-*Before this lesson, students should already be able to:*
+*Before this lesson, developers should already be able to:*
 
 - Understand Rails routing
 - Describe the Rails framework
