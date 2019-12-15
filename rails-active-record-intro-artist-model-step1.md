@@ -112,8 +112,6 @@ Anytime we want to change or update something in our database we need to run a *
 
 ![wedo](http://i.imgur.com/6Kce0ca.png)
 
-## Installing MySQL gem
-gem install mysql2
 
 ## Generate the Muse Rails App
 1. `cd` into the directory that you want to create your app
