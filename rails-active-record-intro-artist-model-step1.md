@@ -19,7 +19,7 @@ _After this lesson, developers will be able to:_
 - Describe the Rails framework
 
 ## Finished App - WDIR MUSE
-Over the next few lessons we're gonna build an app that tracks Artists and Songs. Here's a deployed version of [WDIR Muse](https://wdir-muse.herokuapp.com/)
+Over the next few lessons we're gonna build an app that tracks Artists and Songs.
 
 <br>
 
