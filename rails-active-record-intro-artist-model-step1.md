@@ -44,7 +44,7 @@ RDBMS stand for __relational database management system (RDBMS)__. You can think
 
 - In this example, each **Model** in our app would have it's own tab in the spreadsheet called a **Table**.
 - Each **Row** in the spreadsheet is an **instance** of the Model and is assigned an `_id`.
-- The `_id` is called a **Primary Key**. No record may have the same `_id`. We'll talk more about Primary and Foreign Keys in our MySQL lesson. 
+- The `_id` is called a **Primary Key**. No record may have the same `_id`.
 - Each **column** is a **Field** for that Model.
 
 **NOTE** - Database tables are **plural** (e.g.- "artists") because they contain multiple records/instances of the **singular** `Model`.
