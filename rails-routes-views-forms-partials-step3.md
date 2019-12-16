@@ -255,7 +255,7 @@ Rails.application.routes.draw do
 
   get "artists", to: "artists#index"
   get "artists/new", to: "artists#new"
-  get "artists/:id", to: "artists#show", as: :artist
+  get "artists/:id", to: "artists#show" # , as: :artist
 end
 ```
 
@@ -353,7 +353,7 @@ end
 ```
 
 
-Let's add a link to edit songs on our `views/artists/index.html.erb`. Let's add a new table header and table data rows:
+Let's add a link to edit artists on our `views/artists/index.html.erb`. Let's add a new table header and table data rows:
 
 ```html
 <h1>All the Artists</h1>
