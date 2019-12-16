@@ -68,7 +68,7 @@ columns on the command line, Rails will automatically generate the correct migra
 
 <br>
 
-### Adding the Active Record Relationships (5 min)
+### Adding the Active Record Relationships
 
 We need to update our models to indicate the associations between them. For Muse, our models should look like so:
 
