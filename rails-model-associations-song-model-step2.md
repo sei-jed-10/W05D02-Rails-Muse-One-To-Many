@@ -114,7 +114,7 @@ Cool, like before, let me give you some song data to seed your database with son
 	Song.create(artist_id: 5, title: "Lemonade", genre: "R&B")
 	```
 
-1. We don't want to re-seed the duplicate artists from earlier. So let's drop our database and start over. Instead of running this:
+1. We don't want to re-seed the duplicate artists from earlier. So let's drop our database and start over.
 
 	`rails db:drop db:create db:migrate db:seed`
 	
