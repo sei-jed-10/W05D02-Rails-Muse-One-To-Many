@@ -51,7 +51,7 @@ Now, how can we relate the books that belong to a given author? We add an `autho
 We can generate the `Song` model just like our `Artist` model! If we specify the attributes (i.e.
 columns on the command line, Rails will automatically generate the correct migration for us.)
 
-**YOU DO** - Based on what we covered this morning in creating an `Artist` model... what would be the rails command to create a `Song` model with title and genre attributes?
+**YOU DO** - Based on what we covered, how can we create an `Artist` model... what would be the rails command to create a `Song` model with title and genre attributes?
 
 1. From the command line, generate the `Song` model:
 
