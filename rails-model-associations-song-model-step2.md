@@ -161,7 +161,7 @@ rihanna.songs
 
 ![youdo](http://i.imgur.com/ylb6WX9.gif)
 
-Create your a Song for an Artist of your choice using `.new` and `.save`.
+Create a Song for an Artist of your choice using `.new` and `.save`.
 <br>
 
 ### `.create`
