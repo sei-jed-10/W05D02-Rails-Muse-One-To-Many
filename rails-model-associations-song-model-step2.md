@@ -3,7 +3,7 @@
 
 ### Objectives
 
-_After this lesson, students will be able to:_
+_After this lesson, developer will be able to:_
 
 - Create a `one-to-many` relationship between 2 models
 - Perform CRUD actions on two models using `rails console`
