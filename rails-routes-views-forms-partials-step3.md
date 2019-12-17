@@ -192,7 +192,7 @@ We'll use error driven development again.
 In `routes.rb` add the next route:
 
 ```ruby
-get "artists/:id", to: "artists#show", as: :artist
+get "artists/:id", to: "artists#show" # , as: :artist
 ```
 
 Let's add a `show` method to `artists_controller.rb`. We also need to grab the artists songs. How did we do this in `rails c`?
