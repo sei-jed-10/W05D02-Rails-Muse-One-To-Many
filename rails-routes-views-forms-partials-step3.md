@@ -582,12 +582,10 @@ Hooray! So over the past 4 lessons we've accomplished the following:
 
 ## Labtime
 
-- Go back and fix our navbar links
-- Finish adding full CRUD to `Song`
 - Finish your `books_app`  
 
 
 ## Bonus Material:
-[Debug Rails](https://lankydan.dev/2017/05/12/debugging-a-rails-server-in-visual-studio-code)
+[Debug Rails](https://lankydan.dev/2017/05/12/debugging-a-rails-server-in-visual-studio-code)<br>
 [Delete in Rails](https://www.viget.com/articles/delete-in-rails-without-jquery-and-ujs/)
 
